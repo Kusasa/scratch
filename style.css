@@ -7,11 +7,12 @@
 
 h1 {
     margin: 0px;
+    font-size: 22px;
     text-align: center;
 }
 
 div {
     color: #102598;
     text-align: center;
-    margin: 0px;
+    margin: 5px;
 }
