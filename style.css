@@ -1,6 +1,5 @@
 * {
-    margin: 5px;
-    padding: 2 px
+    margin: 2px;
 }
 
 body {
@@ -49,4 +48,13 @@ ul li a {
 ul li a:hover {
     font-size: 18px;
     color: #020202
+}
+
+section p a {
+    color: #140e5c
+}
+
+.currentpage {
+    font-style: italic;
+    font-size: 16px
 }
