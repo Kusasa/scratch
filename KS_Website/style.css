@@ -4,7 +4,7 @@
 
 body {
     background: url(images/background.jpg) no-repeat;
-    background-size: 100%
+    background-size: 125%
 }
 
 #pic1 {
@@ -37,21 +37,21 @@ ul li {
     line-height: 100%
 }
 
-ul li a {
+li a {
     text-decoration: none;
     display:block;
     padding: 20px 20px; 
     font-size: 14px;
     font-family: arial;
-    color: #151616
+    color: #161615
 }
 
 ul li a:hover {
     font-size: 18px;
-    color: #020202
+    color: #140e5c
 }
 
-section p a {
+p a {
     color: #140e5c
 }
 
